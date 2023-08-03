@@ -1,9 +1,12 @@
 # Manual Testing of Picky Web Application
 
 ## Tools used:
+- Xmind
 - MS Excel
+  
 
 ## Testing All Documents List:
+
 1. ### TEST MATRIX OF PICKY.COM.BD WEB APPLICATION
 
 2. ### MIND MAP OF PICKY.COM.BD WEB APPLICATION
@@ -16,7 +19,8 @@
 
 6. ### TEST MATRIX OF PICKY.COM.BD WEB APPLICATION
 
-	
+
+ 
 
 
 ## Testing All Documents Pictures:
